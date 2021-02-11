@@ -3,6 +3,9 @@
 -   task add matrix maker
 -   add weight for each alternative ***
 */
+
+
+
 var table = [
         [250,16,12,5],
         [200,16,8,3],
